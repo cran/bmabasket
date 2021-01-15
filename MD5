@@ -1,0 +1,17 @@
+7e08ad7399f8d9c7f67642cef695e990 *DESCRIPTION
+905a34f51825944f2d794ed52ec4e0cc *NAMESPACE
+464814a2a448dddc5bd82daabed19c82 *NEWS.md
+09ba1c00d32a18c2d3754a67f23d9841 *R/RcppExports.R
+2bcda75b838070ac777341afd94c026a *R/bma.R
+ae6e0ad67e4eadde57b97f0f82a465cb *R/bma_design.R
+a3536064896404ddc0bae0890bdeb339 *R/bmabasket-package.R
+a64ea4c532b1baa304cfa6dd3442253f *README.md
+d925c3399640ff61a2ddacf67a379e7c *man/bma.Rd
+a61e899b67ebcf787a49119ae2d45e34 *man/bma_design.Rd
+b2c0e1edbc92a2dc060e770948ece584 *man/bmabasket-package.Rd
+edc0d77b3da1c15720ed13d169b3e641 *man/numModels.Rd
+61059660eb073d93e00e8ee054237071 *src/Makevars
+61059660eb073d93e00e8ee054237071 *src/Makevars.win
+1bd3052b0909b7cf7313651b95593c21 *src/RcppExports.cpp
+197e6e08cff477f02b68112334d8ec13 *src/cppfuns.cpp
+304a39b591733ea656d44a12b15f503e *src/design_cppfuns.cpp
