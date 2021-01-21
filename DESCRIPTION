@@ -1,8 +1,8 @@
 Package: bmabasket
 Type: Package
 Title: Bayesian Model Averaging for Basket Trials
-Version: 0.1.0
-Date: 2021-01-09
+Version: 0.1.1
+Date: 2021-01-15
 Authors@R: c(
     person("Matt", "Psioda", email = "matt_psioda@unc.edu", role = "cre"),
     person("Ethan", "Alt", email = "ethanalt@live.unc.edu", role = "aut"))
@@ -20,8 +20,8 @@ URL: https://github.com/ethan-alt/bmabasket
 BugReports: https://github.com/ethan-alt/bmabasket/issues
 RoxygenNote: 7.1.1
 NeedsCompilation: yes
-Packaged: 2021-01-12 20:17:40 UTC; ethanalt
+Packaged: 2021-01-15 15:59:11 UTC; ethanalt
 Author: Matt Psioda [cre],
   Ethan Alt [aut]
 Repository: CRAN
-Date/Publication: 2021-01-15 10:20:02 UTC
+Date/Publication: 2021-01-21 17:20:20 UTC
