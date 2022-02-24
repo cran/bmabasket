@@ -1,7 +1,7 @@
-# bmabasket 0.1.1
+# bmabasket 0.1.2
 
-* Fixed bug in Solaris OS that prevented install
+* Fixed a bug with prior model probabilities
 
 # bmabasket 0.1.0
 
-* First public release.
+* Initial release
